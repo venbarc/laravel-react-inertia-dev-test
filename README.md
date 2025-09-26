@@ -5,7 +5,7 @@
 1. Clone this repository
     ```bash
     git clone git@github.com:denver3542/laravel-react-inertia-dev-test.git
-    cd laravel-inertia-dev-test
+    cd laravel-react-inertia-dev-test
     ```
 2. Install dependencies
     ```bash
